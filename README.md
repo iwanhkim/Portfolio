@@ -1,6 +1,5 @@
-# Halo semua! 
+#Hello everyone!
+Let me introduce myself, my name is **Muhammad Ikhwanul Hakim**.\
 
-Perkenalkan nama saya **Muhammad Ikhwanul Hakim**.\
-
-* [Linkedin](www.linkedin.com/in/iwanhkim).
+* [LinkedIn](www.linkedin.com/in/iwanhkim).
 * [Instagram](https://www.instagram.com/iwanhkim/).
